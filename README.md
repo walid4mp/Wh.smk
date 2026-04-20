@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a href="https://www.llamacoder.io">
   <img alt="Llama Coder" src="./public/og-image.png">
   <h1 align="center">Llama Coder</h1>
@@ -28,3 +29,6 @@
 ## Contributing
 
 For contributing to the repo, please see the [contributing guide](./CONTRIBUTING.md)
+=======
+# Wh.smk
+>>>>>>> 82a26e5687686e50a4c4adc4caa38b0c1a5a24fa
